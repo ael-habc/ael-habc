@@ -15,11 +15,7 @@ Skills: HTML / CSS /JS / PHP / MYSQL /REACT / NODE JS / C
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ael-habc)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ael-habc&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ael-habc)  
-
-![GitHub metrics](https://metrics.lecoq.io/ael-habc)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ael-habc&show_icons=true) 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ael-habc)  
 
