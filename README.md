@@ -19,6 +19,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ael-habc&show_icons=true&theme=radical)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ael-habc&langs_count=8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+### My School Badge 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ael-habc)](https://github.com/ael-habc)
 
 ### Connect with me:
