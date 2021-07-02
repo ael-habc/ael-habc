@@ -1,5 +1,6 @@
 <p>I'm Abdellah, Web developer.</p>
-- I’m currently studying at 1337 School<br>
+-  1337 student<br>
+-  42 <italic>network</italic>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
