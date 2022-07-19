@@ -66,9 +66,7 @@
 
 ---
 
-<p align="center">
-   <img src="https://github.com/ael-habc/ael-habc/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+
 
 ---
 <!--
