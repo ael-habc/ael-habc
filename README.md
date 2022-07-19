@@ -1,14 +1,14 @@
 <img src="/src/header_.png">
 
-<h1 align="center">Hi 👋, I'm BOLLES YASSIR</h1>
+<h1 align="center">Hi 👋, I'm EL-HABCHI ABDELLAH</h1>
 
 
 <div align="center">
 
 ### Glad that you are here 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ysrbolles&label=Profile%20views&color=0e75b6&style=flat" alt="ael-habc" /> </p>
 
-<h2>Fullstack developer , Co-Founder of Leafunder and 👨🏽‍💻 I’m currently studying at 1337 Coding school<h2>
+
+<h2>Fullstack developer , I’m currently studying at 1337 Coding school<h2>
 </div>
 
 
