@@ -67,7 +67,7 @@
 ---
 
 <p align="center">
-   <img src="https://github.com/Ysrbolles/Ysrbolles/blob/output/github-contribution-grid-snake.svg" alt="snake">
+   <img src="https://github.com/AEL-HABC/AEL-HABC/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 ---
