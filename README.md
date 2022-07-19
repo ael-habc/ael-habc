@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="[https://linkedin.com/in/ysrbolles](https://www.linkedin.com/in/abdellah-elhabchi-6370b8194/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ael-habc" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdellah-elhabchi-6370b8194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ael-habc" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12165699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12165699" height="30" width="40" /></a>
 </p>
 
@@ -67,7 +67,7 @@
 ---
 
 <p align="center">
-   <img src="https://github.com/AEL-HABC/AEL-HABC/blob/output/github-contribution-grid-snake.svg" alt="snake">
+   <img src="https://github.com/ael-habc/ael-habc/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 ---
