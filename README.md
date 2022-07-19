@@ -1,31 +1,87 @@
-<p>I'm Abdellah, Web developer.</p>
--  1337 student<br>
--  42 <italic>network</italic>
-<h3>Things I code with</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="git" src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-4169E1?style=flat-square&logo=PHP&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1E90FF?style=flat-square&logo=Css3&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>
+<img src="/src/header_.png">
+
+<h1 align="center">Hi 👋, I'm BOLLES YASSIR</h1>
+
+
+<div align="center">
+
+### Glad that you are here 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ysrbolles&label=Profile%20views&color=0e75b6&style=flat" alt="ael-habc" /> </p>
+
+<h2>Fullstack developer , Co-Founder of Leafunder and 👨🏽‍💻 I’m currently studying at 1337 Coding school<h2>
+</div>
+
+
+
+- 🌱 I’m currently learning **WEB3**
+
+- 👨🏽‍💻 I’m currently studying at **[1337 School](https://1337.ma)**
+
+- 📫 How to reach me **Abdellahelhabchi96@gmail.com**
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="[https://linkedin.com/in/ysrbolles](https://www.linkedin.com/in/abdellah-elhabchi-6370b8194/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ael-habc" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12165699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12165699" height="30" width="40" /></a>
 </p>
 
 
+---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ael-habc&show_icons=true&theme=radical)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ael-habc&langs_count=8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### My School Badge 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ael-habc)](https://github.com/ael-habc)
+<details>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> ubuntu</li>
+  	    <li><b>Browser: </b> Chrome </li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (fino)</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin, Twitter and StackOverflow (-Don't tell anyone-).</li>
+	</ul>	
+</details>
 
-### Connect with me:
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysrbolles&theme=dracula" />
+  <br/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysrbolles&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysrbolles&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysrbolles&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysrbolles&theme=dracula"/>
+</details>
 
-[<img align="left" alt="ael-habc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abdellah-elhabchi-6370b8194/)
-[<img align="left" alt="ael-habc | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/abdellah_elhabchi/)
+---
 
-<br />
 
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
+---
+
+<p align="center">
+   <img src="https://github.com/Ysrbolles/Ysrbolles/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+---
+<!--
+**Ysrbolles/Ysrbolles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently I’m currently studying at on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
