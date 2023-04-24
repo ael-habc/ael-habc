@@ -2,40 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm EL-HABCHI ABDELLAH</h1>
 
-
-<div align="center">
-
-### Glad that you are here 
-
-
-<h2>Fullstack developer , I’m currently studying at 1337 Coding school<h2>
-</div>
-
-
-
-- 🌱 I’m currently learning **WEB3**
-
-- 👨🏽‍💻 I’m currently studying at **[1337 School](https://1337.ma)**
-
-- 📫 How to reach me **Abdellahelhabchi96@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://www.linkedin.com/in/abdellah-elhabchi-6370b8194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ael-habc" height="30" width="40" /></a>
-</p>
-
-
----
-
-
-<details>
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> ubuntu</li>
   	    <li><b>Browser: </b> Chrome </li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (fino)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
