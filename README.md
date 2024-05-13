@@ -16,7 +16,7 @@ I’m a Full Stack Developer with a strong background in C and JavaScript, culti
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 ## Current Projects 🌱
-- **Project Name**: Description of what I'm working on and the technologies used.
+- **Project Name**: 20 ReactJs / NodeJs / Mongo,mysql / Express projects
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin&link=your-linkedin-url)](your-linkedin-url)
