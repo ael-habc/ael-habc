@@ -19,8 +19,7 @@ I’m a self-driven Full Stack Developer and an avid problem solver. With expert
 - **Cool Web App**: A responsive web application designed to simplify user workflows. Leveraging React for the frontend and Node.js for the backend.
 
 ## 📫 How to Reach Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&link=your-linkedin-url)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=your-github-url)](your-github-url)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&link=your-linkedin-url)]([your-linkedin-url](https://www.linkedin.com/in/abdellah-elhabchi-6370b8194/))
 
 ## 📊 GitHub Stats:
 ![Abdellah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
